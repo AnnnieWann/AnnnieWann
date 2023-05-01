@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Annie</h1>
 <h3 align="center">A Self-taught frontend developer</h3>
 
-- 👨‍💻 All of my projects are available at https://annniewann.github.io/portfolio/
+- 👨‍💻 All of my projects are available at [https://annniewann.github.io/portfolio-website/](https://644fcc5d847cab27b6ed1697--anniewan.netlify.app/)
 
 - 📫 How to reach me **annie_wan1209@hotmail.com**
 
